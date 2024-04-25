@@ -1,0 +1,33 @@
+body{
+  background-color: #d5e1ef;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.code{
+  height: 531px;
+  width: 100%;
+  /* margin: 10px; */
+  padding: 16px 16px 0px 16px;
+  max-width: 335px;
+  background-color:white;
+  box-shadow: 0px 10px 20px 0px rgb(0 0 0 / 10%);
+  position: absolute;
+  margin: auto;
+  inset: 0;
+  border-radius: 16px;
+}
+
+img{
+  width: 100%;
+  border-radius: 8px;
+  /* padding: 10px; */ 
+}
+
+h2{
+  color: rgb(31,50,81);
+}
+
+p{
+  color: rgb(74,81,94);
+}
